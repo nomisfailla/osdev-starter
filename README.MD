@@ -3,8 +3,8 @@ This repository contaisn the minimal code needed to compile and boot a Multiboot
 
 ## Dependencies
 ```
-sudo apt-get install g++ binutils libc6-dev-i386 nasm
-sudo apt-get install grub-pc-bin grub-common xorriso
+sudo apt install g++ binutils libc6-dev-i386 nasm
+sudo apt install grub-pc-bin grub-common xorriso
 ```
 
 ## Build Instructions
