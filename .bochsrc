@@ -1,0 +1,4 @@
+port_e9_hack: enabled=1
+ata0-slave: type=cdrom, path=release.iso, status=inserted
+boot: cdrom
+
