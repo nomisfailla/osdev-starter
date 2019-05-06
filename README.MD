@@ -1,5 +1,5 @@
 # OSDev Starter Kit
-This repository contaisn the minimal code needed to compile and boot a Multiboot 2 compiant kernel using GRUB.
+This repository contains the minimal code needed to compile and boot a Multiboot 2 compiant kernel using GRUB.
 
 ## Dependencies
 ```
